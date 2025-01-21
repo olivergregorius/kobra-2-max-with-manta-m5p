@@ -25,8 +25,8 @@ to have full flexibility controlling my printer.
 ## Solution found - Presenting it to you so you can benefit
 
 I just came across the website from [@1coderookie](https://github.com/1coderookie): [Kobra2MaxInsights](https://1coderookie.github.io/Kobra2MaxInsights/) which
-basically describes every little part of the printer - it is just a gold mine for everyone that aims for modding this printer. BTW, there are corresponding
-URLs for the Kobra 2 Pro and Plus, too. But all in all the printers of the Kobra 2 Pro/Plus/Max series do not differ that much at all (except for the printing
+basically describes every little part of the printer - it is just a gold mine for everyone who aims for modding this printer. BTW, there are corresponding URLs
+for the Kobra 2 Pro and Plus, too. But all in all the printers of the Kobra 2 Pro/Plus/Max series do not differ that much at all (except for the printing
 volume, of course).
 
 1coderookie there describes a mod, replacing the stock mainboard with a MKS Robin Nano v3.1. As I already had taken a lookaround and found the BigTreeTech Manta
@@ -42,7 +42,9 @@ for you to use it either for a 1:1 adaption or as a starting point for further i
 
 **Stock mainboard pinout**
 
-To be added
+![motherboard-pinout.svg](assets/motherboard-pinout.svg)
+
+Source: https://github.com/codexnovus/reverse-engineering-the-kobra2-pro/blob/60daed37d88431c6e6d83d84898fbabf0f436f80/motherboard/motherboard-pinout.svg
 
 **Manta M5P pinout**
 
