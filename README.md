@@ -119,7 +119,7 @@ You can find a basic printer.cfg [here](config/printer.cfg).
 
 ### Mainboard enclosure
 
-To be added
+You can find the parts of the mainboard enclosure [here](assets/prints). With the provided STL or 3MF files you can print the enclosure on your own.
 
 ### What does not work?
 
